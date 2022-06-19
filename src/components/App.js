@@ -5,9 +5,12 @@ import Home from "./Home";
 import Actors from "./Actors";
 import Directors from "./Directors";
 import Movies from "./Movies";
+import { BrowserRouter as Router, Route, Link, NavLink } from "react-router-dom";
 
 function App() {
   return <div>{/*{code here}*/}</div>;
 }
 
 export default App;
+
+
